@@ -1,3 +1,5 @@
+This is an activley maintained fork of the the-iconic/Name-Parser, an excellent package that needed a new home. 
+
 # THE ICONIC Name Parser
 
 [![Build Status](https://travis-ci.org/theiconic/name-parser.svg?branch=master&t=201705161308)](https://travis-ci.org/theiconic/name-parser)
